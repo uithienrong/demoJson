@@ -1,5 +1,5 @@
 *** Settings ***
-Default Tags    folder2
+Default Tags     folder2
 
 *** Test Cases ***
 Test Case 2
