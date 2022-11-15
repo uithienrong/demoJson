@@ -1,7 +1,12 @@
 {
     "nightly": {
         "test1": "python3 -m robot -i folder1 .",
-        "test2": "python3 -m robot -i folder2 ."
-        
+        "test2": "python3 -m robot -i folder2 .",
+        "test3": "python3 -m robot -i folder3 .",
+        "test4": "python3 -m robot -i folder4 .",
+        "test5": "python3 -m robot -i folder5 .",
+        "test6": "python3 -m robot -i folder6 .",
+        "test7": "python3 -m robot -i folder7 .",
+        "test8": "python3 -m robot -i folder8 ."
     }
 }
