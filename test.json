@@ -1,0 +1,7 @@
+{
+    "nightly": {
+        "test1": "python3 -m robot test1.robot",
+        "test2": "python3 -m robot test2.robot"
+        
+    }
+}
