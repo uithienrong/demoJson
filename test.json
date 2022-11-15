@@ -1,7 +1,7 @@
 {
     "nightly": {
-        "test1": "python3 -m robot test1.robot",
-        "test2": "python3 -m robot test2.robot"
+        "test1": "python3 -m robot -i folder1 .",
+        "test2": "python3 -m robot -i folder2 ."
         
     }
 }
